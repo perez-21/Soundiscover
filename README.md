@@ -1,3 +1,5 @@
+# Important
+ This doesn't work, because Spotify deprecated the recommendation endpoint.
 # Soundiscover
  Recommends new music on spotify based on stuff you don't listen to often
 
